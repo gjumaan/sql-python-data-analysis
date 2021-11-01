@@ -1,3 +1,10 @@
+#Mac Compatability
+.DS_Store
+.ipynb_checkpoints
+
+#Database configuration
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
